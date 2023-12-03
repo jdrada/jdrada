@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋 Hey there! I'm Juan C. Drada - the only web developer who accidentally learned recursion while getting lost in a mirror maze. 🪞➰
+### 👋 I'm Juan C. Drada - Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software.➰
 
 - 🔭 I’m currently working on web development/optimization of ULedger Apps.
 - 🌱 I’m currently learning Go.
